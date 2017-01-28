@@ -1,0 +1,15 @@
+body {
+  background-color: #197278;
+}
+
+div {
+  align-self: center;
+}
+
+.main {
+  margin: auto;
+  background-color: #283d3b;
+  width: 1600px;
+  font-family: Roboto;
+  color: #edddd4;
+}
