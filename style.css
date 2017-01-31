@@ -6,10 +6,25 @@ div {
   align-self: center;
 }
 
+a {
+  color: #c44536;
+  text-decoration: none;
+}
+
 .main {
   margin: auto;
   background-color: #283d3b;
   width: 1600px;
   font-family: Roboto;
   color: #edddd4;
+  overflow: hidden;
+}
+
+.sidebar {
+  background-color: #0A2D30;
+  width: 200px;
+  font-family: Roboto;
+  color: #edddd4;
+  float: left;
+  height: 100%;
 }
