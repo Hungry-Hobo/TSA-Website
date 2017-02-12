@@ -1,30 +1,33 @@
 body {
-  background-color: #197278;
-}
+  background-color: #197278;}
 
 div {
   align-self: center;
 }
 
 a {
-  color: #c44536;
+  color: #5E9CA0;
   text-decoration: none;
+}
+
+ul {
+  list-style-type: circle;;
 }
 
 .main {
   margin: auto;
   background-color: #283d3b;
   width: 1600px;
-  font-family: Roboto;
+  font-family: Roboto, sans-serif;
   color: #edddd4;
-  overflow: hidden;
+  overflow: hidden;  text-indent: 50px;
 }
 
 .sidebar {
   background-color: #0A2D30;
   width: 200px;
-  font-family: Roboto;
+  font-family: Roboto, sans-serif;
   color: #edddd4;
   float: left;
-  height: 100%;
+  height: 100%;  text-indent: 10px;
 }
