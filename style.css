@@ -31,3 +31,9 @@ ul {
   float: left;
   height: 100%;  text-indent: 10px;
 }
+
+.right-img {
+  float: right;
+  width: 200px;
+  margin: 25px;
+}
