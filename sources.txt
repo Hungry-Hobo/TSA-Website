@@ -1,17 +1,15 @@
-General:
+Introduction:
 https://en.wikipedia.org/wiki/Augmented_reality?oldformat=true
 
-
-Gaming:
-
-
-Education:
+AR Today:
 http://www.teachthought.com/uncategorized/augmented-reality-in-education-here-are-20-examples/
-
-Medicine:
 https://www.healthtechevent.com/technology/augmented-reality-revolutionizing-medicine-healthcare/
 
 Dangers:
 http://spectrum.ieee.org/consumer-electronics/portable-devices/the-reallife-dangers-of-augmented-reality
 
+Future:
+
+
 Images:
+https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.solidapps.co.uk%2Fblog%2Fwp-content%2Fuploads%2F2013%2F02%2FiOS_Augmented_Reality.jpg&f=1
