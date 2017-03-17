@@ -11,7 +11,7 @@ a {
 }
 
 ul {
-  list-style-type: circle;;
+  list-style-type: none;
 }
 
 .main {
@@ -34,6 +34,12 @@ ul {
 
 .right-img {
   float: right;
-  width: 200px;
+  width: 300px;
+  margin: 25px;
+}
+
+.left-img {
+  float: left;
+  width: 300px;
   margin: 25px;
 }
